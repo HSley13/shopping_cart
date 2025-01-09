@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Headphone",
+    "price": 49.99,
+    "imgUrl": "/images/headphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Monitor",
+    "price": 199.99,
+    "imgUrl": "/images/monitor.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "price": 29.99,
+    "imgUrl": "/images/keyboard.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "price": 19.99,
+    "imgUrl": "/images/mouse.jpg"
+  }
+]
